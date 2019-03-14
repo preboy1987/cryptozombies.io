@@ -13,5 +13,6 @@ void main() {
   printf("Phep tru la: %x", minus);
   printf("Phep nhan la: %x", multiple);
   printf("Phep chia la: %x", divide);
+  printf("END OF PROGRAM");
   endl();
 }
