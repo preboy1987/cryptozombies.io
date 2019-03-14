@@ -2,7 +2,7 @@ include stdio.h
 include math.h
 
 void main() {
-  printf("Nguyen Nam Giang");
+  printf("Testing only");
   int a = 1;
   int b = 3;
   int count = (a + b) - (a - b);
